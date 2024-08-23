@@ -1,1 +1,1 @@
-# Edge_detection_with_performace_meterics_SSIM_PSNR_MSE
+# Edge_detection/SSIM_PSNR_MSE
